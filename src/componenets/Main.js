@@ -5,6 +5,7 @@ function Main(){
 
     return (
         <div className={styles.main}>
+            This is main
         </div>
     )
 }
